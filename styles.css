@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(46, 23, 117);
+}
+.container{
+    background-color:rgb(116, 129, 227);
+    height: 600px;
+    width: 450px;
+    border: 5px solid black;
+    margin:auto;
+    padding-left: 40px;
+    margin-top: 70px;
+    text-align: center;
+}
+.usn{
+    width:250px;
+    height:40px;
+    background-color: coral
+
+
+}
+.sem{
+    width:250px;
+    height:40px;
+    background-color: coral
+}
+
+    .bran{
+        width: 400px ;
+        height:40px;
+        background-color: coral
+    
+    
+    }
+    .no{
+        width:250px;
+        height:40px;
+        background-color: coral
+    
+    
+    }
+    .ho{
+        width:270px;
+        height:100px;
+        background-color: coral
+    }
+    ul{
+        list-style: none;
+    }
+    .name{
+        background-color: coral;
+        height: 40px;
+        width: 400px;
+    }
+    
+    
+    
+
